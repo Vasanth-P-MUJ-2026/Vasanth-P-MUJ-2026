@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Vasanth Prakasam | Data Scientist
+# 🌸 Vasanth P | Data Scientist
 # 🌸 ヴァサント・プラカサム | データサイエンティスト
 
 <div align="center">
