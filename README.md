@@ -60,48 +60,108 @@ I made a deliberate career shift into data science after five years preparing fo
 
 ---
 
-## Featured Projects
+## 🚀 Data Science, ML, NLP & LLM Projects — Pinned Projects
 
-### 🌦️ ClimateLens — Indian Cities Weather Analytics *(In Progress)*
-Production-grade data engineering pipeline for weather analytics: modular Python ETL scripts, SQLAlchemy + TiDB Cloud/MySQL backend, Streamlit dashboard, pytest coverage, and CI via GitHub Actions.
-`Python` `SQLAlchemy` `TiDB Cloud` `Streamlit` `pytest`
+<table>
+<tr>
 
-### 🍃 Apple Leaf Disease Classifier
-Custom CNN built in PyTorch trained on the Plant Pathology 2021 dataset for multi-class leaf disease detection.
-`PyTorch` `CNN` `Computer Vision`
+<!-- 1 -->
+<td width="25%">
+<a href="https://github.com/VasanthPrakasam/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow">
+<b>🧠 NeuroScan – Brain Tumor Classifier</b><br>
+<img src="https://opengraph.githubassets.com/1/VasanthPrakasam/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow" width="100%">
+</a>
+</td>
 
-### 🧠 NeuroScan — Brain Tumor Classification
-CNN with transfer learning achieving ~93% accuracy across 7,000+ MRI scans for tumor classification.
-`TensorFlow` `Transfer Learning` `Medical Imaging`
-[View Project →](https://github.com/VasanthPrakasam/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow)
+<!-- 2 -->
+<td width="25%">
+<a href="https://github.com/VasanthPrakasam/Shopper_Spectrum">
+<b>🛍️ Shopper Spectrum – Segmentation</b><br>
+<img src="https://opengraph.githubassets.com/1/VasanthPrakasam/Shopper_Spectrum" width="100%">
+</a>
+</td>
 
-### 🌫️ EcoPulse — PM2.5 Air Quality Nowcasting
-Regression-based air quality forecasting model achieving R² = 0.87, MAE 10.2 µg/m³.
-`Python` `Scikit-learn` `Time Series`
+<!-- 3 -->
+<td width="25%">
+<a href="https://github.com/VasanthPrakasam/Tripfare_Prediction">
+<b>🚖 FarePilot – Fare Prediction</b><br>
+<img src="https://opengraph.githubassets.com/1/VasanthPrakasam/Tripfare_Prediction" width="100%">
+</a>
+</td>
 
-### 🛍️ Shopper Spectrum
-Customer segmentation using RFM analysis paired with a cosine-similarity based product recommendation engine.
-`Unsupervised Learning` `Recommendation Systems`
-[View Project →](https://github.com/VasanthPrakasam/Shopper_Spectrum)
+<!-- 4 -->
+<td width="25%">
+<a href="https://github.com/VasanthPrakasam/Nasa-NEO-Data-Tracking-Insights-Dashboard">
+<b>🌌 NASA NEO Tracking Dashboard</b><br>
+<img src="https://opengraph.githubassets.com/1/VasanthPrakasam/Nasa-NEO-Data-Tracking-Insights-Dashboard" width="100%">
+</a>
+</td>
 
-### 🚖 FarePilot — Taxi Fare Prediction
-End-to-end regression pipeline for fare prediction, deployed via Streamlit.
-`Regression` `Feature Engineering` `Streamlit`
-[View Project →](https://github.com/VasanthPrakasam/Tripfare_Prediction)
+</tr>
+<tr>
 
-### 🌌 NASA NEO Tracking System
-Paginated NASA API extractor with SQLite backend and a Streamlit dashboard supporting 15+ analytical queries.
-`API Integration` `SQLite` `Streamlit`
-[View Project →](https://github.com/VasanthPrakasam/Nasa-NEO-Data-Tracking-Insights-Dashboard)
+<!-- 5 -->
+<td width="25%">
+<a href="https://github.com/VasanthPrakasam/Project-2-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition">
+<b>🥗 Nutrition Paradox – Global View</b><br>
+<img src="https://opengraph.githubassets.com/1/VasanthPrakasam/Project-2-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition" width="100%">
+</a>
+</td>
 
-### 🍽️ Zomato Food Delivery Data Insights
-Five-module OOP-based SQLite backend with a Streamlit/Plotly dashboard covering 20 analytics queries, using synthetic data generated via Faker.
-`OOP` `SQLite` `Plotly`
+<!-- 6 -->
+<td width="25%" align="center">
+<b>🌦️ ClimateLens – Weather Analytics</b><br>
+<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
+</td>
 
-### 🥗 Nutrition Paradox — Global View
-Exploratory and statistical analysis of global obesity and malnutrition trends.
-`EDA` `Statistical Analysis`
-[View Project →](https://github.com/VasanthPrakasam/Project-2-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition)
+<!-- 7 -->
+<td width="25%" align="center">
+<b>🍃 Apple Leaf Disease Classifier</b><br>
+<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
+</td>
+
+<!-- 8 -->
+<td width="25%" align="center">
+<b>🍽️ Zomato Food Delivery Insights</b><br>
+<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🌩️ AI & Cloud Projects Portfolio
+
+<table>
+<tr>
+
+<!-- 1 -->
+<td width="25%" align="center">
+<b>⏳ More Projects Coming Soon</b><br>
+<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
+</td>
+
+<!-- 2 -->
+<td width="25%" align="center">
+<b>📦 GenAI / LLM Projects</b><br>
+<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
+</td>
+
+<!-- 3 -->
+<td width="25%" align="center">
+<b>☁️ Cloud & Deployment Projects</b><br>
+<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
+</td>
+
+<!-- 4 -->
+<td width="25%" align="center">
+<b>🔧 MLOps Projects</b><br>
+<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
+</td>
+
+</tr>
+</table>
 
 ---
 
