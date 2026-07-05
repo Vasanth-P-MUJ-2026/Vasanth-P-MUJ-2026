@@ -60,16 +60,16 @@ I made a deliberate career shift into data science after five years preparing fo
 
 ---
 
-## 📊 Machine Learning Projects
+## 📊 Smart Analytics & ML Models
 
 <table>
 <tr>
 
 <!-- 1 -->
 <td width="25%">
-<a href="https://github.com/VasanthPrakasam/Shopper_Spectrum">
+<a href="https://github.com/Vasanth-P-MUJ-2026/Project_3-Shopper_Spectrum_Segementation_and_recommendation">
 <b>🛍️ Shopper Spectrum – Segmentation</b><br>
-<img src="https://opengraph.githubassets.com/1/VasanthPrakasam/Shopper_Spectrum" width="100%">
+<img src="https://opengraph.githubassets.com/1/Vasanth-P-MUJ-2026/Project_3-Shopper_Spectrum_Segementation_and_recommendation" width="100%">
 </a>
 </td>
 
@@ -117,34 +117,14 @@ I made a deliberate career shift into data science after five years preparing fo
 
 ---
 
-## 🧠 Deep Learning, NLP, CV Projects
+## 🧠 Applied Deep Learning Solutions
 
 <table>
 <tr>
-
+  
 <!-- 1 -->
-<td width="25%">
-<a href="https://github.com/VasanthPrakasam/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow">
-<b>🧠 NeuroScan – Brain Tumor Classifier</b><br>
-<img src="https://opengraph.githubassets.com/1/VasanthPrakasam/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow" width="100%">
-</a>
-</td>
-
-<!-- 2 -->
 <td width="25%" align="center">
-<b>🍃 Apple Leaf Disease Classifier</b><br>
-<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
-</td>
-
-<!-- 3 -->
-<td width="25%" align="center">
-<b>⏳ More DL Projects Coming Soon</b><br>
-<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
-</td>
-
-<!-- 4 -->
-<td width="25%" align="center">
-<b>📦 Upcoming Computer Vision Work</b><br>
+<b>⏳ More Projects Coming Soon</b><br>
 <img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
 </td>
 
@@ -153,32 +133,14 @@ I made a deliberate career shift into data science after five years preparing fo
 
 ---
 
-## 🌩️ AI, LLM, Rag & Cloud Projects
+## 🌩️ Generative AI & Cloud Engineering
 
 <table>
 <tr>
 
 <!-- 1 -->
 <td width="25%" align="center">
-<b>AI Powered FAQ Chatbot</b><br>
-<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
-</td>
-
-<!-- 2 -->
-<td width="25%" align="center">
-<b>📦 GenAI / LLM Projects</b><br>
-<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
-</td>
-
-<!-- 3 -->
-<td width="25%" align="center">
-<b>☁️ Cloud & Deployment Projects</b><br>
-<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
-</td>
-
-<!-- 4 -->
-<td width="25%" align="center">
-<b>🔧 MLOps Projects</b><br>
+<b>⏳ More Projects Coming Soon</b><br>
 <img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
 </td>
 
