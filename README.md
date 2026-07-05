@@ -75,9 +75,9 @@ I made a deliberate career shift into data science after five years preparing fo
 
 <!-- 2 -->
 <td width="25%">
-<a href="https://github.com/VasanthPrakasam/Tripfare_Prediction">
+<a href="https://github.com/Vasanth-P-MUJ-2026/Project--TripFare-Predicting-Urban-Taxi-Fare-with-Machine-Learning">
 <b>🚖 FarePilot – Fare Prediction</b><br>
-<img src="https://opengraph.githubassets.com/1/VasanthPrakasam/Tripfare_Prediction" width="100%">
+<img src="https://opengraph.githubassets.com/1/Vasanth-P-MUJ-2026/Project--TripFare-Predicting-Urban-Taxi-Fare-with-Machine-Learning" width="100%">
 </a>
 </td>
 
