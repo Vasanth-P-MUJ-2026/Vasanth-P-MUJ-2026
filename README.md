@@ -60,20 +60,12 @@ I made a deliberate career shift into data science after five years preparing fo
 
 ---
 
-## 🚀 Data Science, ML, NLP & LLM Projects — Pinned Projects
+## 📊 Machine Learning Projects
 
 <table>
 <tr>
 
 <!-- 1 -->
-<td width="25%">
-<a href="https://github.com/VasanthPrakasam/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow">
-<b>🧠 NeuroScan – Brain Tumor Classifier</b><br>
-<img src="https://opengraph.githubassets.com/1/VasanthPrakasam/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow" width="100%">
-</a>
-</td>
-
-<!-- 2 -->
 <td width="25%">
 <a href="https://github.com/VasanthPrakasam/Shopper_Spectrum">
 <b>🛍️ Shopper Spectrum – Segmentation</b><br>
@@ -81,11 +73,19 @@ I made a deliberate career shift into data science after five years preparing fo
 </a>
 </td>
 
-<!-- 3 -->
+<!-- 2 -->
 <td width="25%">
 <a href="https://github.com/VasanthPrakasam/Tripfare_Prediction">
 <b>🚖 FarePilot – Fare Prediction</b><br>
 <img src="https://opengraph.githubassets.com/1/VasanthPrakasam/Tripfare_Prediction" width="100%">
+</a>
+</td>
+
+<!-- 3 -->
+<td width="25%">
+<a href="https://github.com/VasanthPrakasam/Project-2-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition">
+<b>🥗 Nutrition Paradox – Global View</b><br>
+<img src="https://opengraph.githubassets.com/1/VasanthPrakasam/Project-2-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition" width="100%">
 </a>
 </td>
 
@@ -101,28 +101,14 @@ I made a deliberate career shift into data science after five years preparing fo
 <tr>
 
 <!-- 5 -->
-<td width="25%">
-<a href="https://github.com/VasanthPrakasam/Project-2-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition">
-<b>🥗 Nutrition Paradox – Global View</b><br>
-<img src="https://opengraph.githubassets.com/1/VasanthPrakasam/Project-2-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition" width="100%">
-</a>
+<td width="25%" align="center">
+<b>🍽️ Zomato Food Delivery Insights</b><br>
+<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
 </td>
 
 <!-- 6 -->
 <td width="25%" align="center">
-<b>🌦️ ClimateLens – Weather Analytics</b><br>
-<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
-</td>
-
-<!-- 7 -->
-<td width="25%" align="center">
-<b>🍃 Apple Leaf Disease Classifier</b><br>
-<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
-</td>
-
-<!-- 8 -->
-<td width="25%" align="center">
-<b>🍽️ Zomato Food Delivery Insights</b><br>
+<b>⏳ More ML Projects Coming Soon</b><br>
 <img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
 </td>
 
@@ -131,14 +117,50 @@ I made a deliberate career shift into data science after five years preparing fo
 
 ---
 
-## 🌩️ AI & Cloud Projects Portfolio
+## 🧠 Deep Learning, NLP, CV Projects
+
+<table>
+<tr>
+
+<!-- 1 -->
+<td width="25%">
+<a href="https://github.com/VasanthPrakasam/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow">
+<b>🧠 NeuroScan – Brain Tumor Classifier</b><br>
+<img src="https://opengraph.githubassets.com/1/VasanthPrakasam/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow" width="100%">
+</a>
+</td>
+
+<!-- 2 -->
+<td width="25%" align="center">
+<b>🍃 Apple Leaf Disease Classifier</b><br>
+<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
+</td>
+
+<!-- 3 -->
+<td width="25%" align="center">
+<b>⏳ More DL Projects Coming Soon</b><br>
+<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
+</td>
+
+<!-- 4 -->
+<td width="25%" align="center">
+<b>📦 Upcoming Computer Vision Work</b><br>
+<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🌩️ AI, LLM, Rag & Cloud Projects
 
 <table>
 <tr>
 
 <!-- 1 -->
 <td width="25%" align="center">
-<b>⏳ More Projects Coming Soon</b><br>
+<b>AI Powered FAQ Chatbot</b><br>
 <img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
 </td>
 
@@ -177,8 +199,11 @@ Looking for **data-driven projects** to collaborate on and grow together 🚀
 
 ### 📩 Reach Me
 📧 **Email:** [i.vasanth.prakasam@gmail.com](mailto:i.vasanth.prakasam@gmail.com)
+
 🌐 **GitHub:** [github.com/Vasanth-P-MUJ-2026](https://github.com/Vasanth-P-MUJ-2026)
+
 🔗 **LinkedIn:** [in/vasanth-prakasam-a490b0334](https://www.linkedin.com/in/vasanth-prakasam-a490b0334/)
+
 🌍 **Portfolio:** [vasanthbuilds.me](https://vasanthbuilds.me)
 
 ---
