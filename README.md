@@ -1,239 +1,133 @@
-<div align="center">
+<div align="left">
 
-# 🌸 Vasanth P | Data Scientist
-# 🌸 ヴァサント・プラカサム | データサイエンティスト
+# 📜 Vasanth Prakasam | Aspiring Data Scientist, AI/ML Enthusiast
 
-<div align="center">
+*"History taught me to read the past. Data taught me to predict the future."*
 
-**"道に迷うことなく発見できない道もある"**  
-*"Some paths can't be discovered without getting lost first"*
+*Historian Turned Analyst. Curious Coder. Pattern Hunter. Model Whisperer 🧠⚙️*
 
-**静かな分析者 • 恐れ知らずのモデラー • アルゴリズムの錬金術師**  
-*Quiet Analyst • Fearless Modeler • Algorithm Alchemist*
+[![Email](https://img.shields.io/badge/Email-i.vasanth.prakasam%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:i.vasanth.prakasam@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vasanth-prakasam-a490b0334/)
+[![GitHub](https://img.shields.io/badge/GitHub-VasanthPrakasam-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VasanthPrakasam)
 
 </div>
 
 ---
 
-<div align="center">
+## About Me
 
-## 🏯 自己紹介 | About Me
+I made a deliberate career shift into data science after five years preparing for UPSC Civil Services — a background that shapes how I approach problems: methodically, with a bias toward first principles before implementation.
 
-</div>
+📊 **Work Experience**:
+- 💼 **AI/ML Engineer Intern** at Technical One — currently leading a cross-team Y2038 + Leap Second Legacy Modernization PoC (4 intern teams)
 
-![Zen Garden](https://images.unsplash.com/photo-1545569341-9eb8b30979d9?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=200&q=80)
+📚 **Currently Learning**:
+- 🎓 **MCA** – Manipal University of Jaipur (Distance Education)
 
-🧬 About Me |
-🎓 Integrated B.A in History @ Bharathidasan University, TN |
-📚 Machine Learning Graduate @ GUVI-HCL Zen Class (IITM + NASSCOM Certified) |
-🧪 Ex-UPSC Aspirant |
-📍 Location: Salem, Tamil Nadu |
-🧠 Ikigai: Data Scientist | ML Engineer | Predictive Modeling Expert | Python Developer | Power BI Developer | Tableau Developer
+🎓 **Education**:
+- 📜 *DataCamp Certified **Data Scientist Associate***
+- 📜 *IITM Pravartak Certified **Master Data Science** Program* @ Guvi-HCL
+- 🎓 *BA History* – St.Joseph's (Autonomous) College
 
-<div align="center">
+📍 **Location**:
+- Based in Salem, Tamil Nadu, India
 
-*"From ancient scrolls to digital algorithms"*
+🧠 **Ikigai**:
+- *Aspiring **Data Scientist | ML Engineer | AI/ML Engineer***
 
-</div>  
+---
 
-## 🛠️ Tech Arsenal
+## Tech Stack
 
-### Programming & Data Science
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=NumPy&logoColor=white)
+**Languages & Core**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-
-### Machine Learning 
+**Machine Learning & Deep Learning**
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/-Feature%20Engineering-FF9800?style=flat-square&logo=python&logoColor=white)
-![Hyperparameter Tuning](https://img.shields.io/badge/-Hyperparameter%20Tuning-9C27B0?style=flat-square&logo=tensorflow&logoColor=white)
-![Predictive Modeling](https://img.shields.io/badge/-Predictive%20Modeling-2196F3?style=flat-square&logo=tensorflow&logoColor=white)
-![Regression](https://img.shields.io/badge/-Regression-03DAC6?style=flat-square&logo=tensorflow&logoColor=white)
-![Linear Regression](https://img.shields.io/badge/-Linear%20Regression-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Classification](https://img.shields.io/badge/-Classification-4CAF50?style=flat-square&logo=tensorflow&logoColor=white)
-![Decision Tree](https://img.shields.io/badge/-Decision%20Tree-8BC34A?style=flat-square&logo=tensorflow&logoColor=white)
-![Recommendation System](https://img.shields.io/badge/-Recommendation%20System-E91E63?style=flat-square&logo=tensorflow&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
-### Data Analysis & Visualization
-![EDA](https://img.shields.io/badge/-EDA-FF9500?style=flat-square&logo=chart-line&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-36A2EB?style=flat-square&logo=plotly&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
-![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-607D8B?style=flat-square&logo=chart-bar&logoColor=white)
+**Deployment & Tooling**
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
-### Specialized Skills
-![API Integration](https://img.shields.io/badge/-API%20Integration-00D4AA?style=flat-square&logo=api&logoColor=white)
-![Healthcare Analytics](https://img.shields.io/badge/-Healthcare%20Analytics-DC143C?style=flat-square&logo=heart&logoColor=white)
-![Sports Analytics](https://img.shields.io/badge/-Sports%20Analytics-FF6B35?style=flat-square&logo=cricket&logoColor=white)
-![Customer Analytics](https://img.shields.io/badge/-Customer%20Analytics-9932CC?style=flat-square&logo=users&logoColor=white)
-
-## 🚀 Featured Machine Learning Projects
-
-### 🌌 NASA NEO Data Tracking Insights Dashboard
-**→ NASA API ✦ Real-time Data ✦ Streamlit UI ✦ Space Analytics ✦ Interactive Viz**
-
-[![NASA NEO Dashboard](https://img.shields.io/badge/-View%20Project-FF6B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/Nasa-NEO-Data-Tracking-Insights-Dashboard)
-
-*Skills Gained: API Integration, Real-time Data Processing, Advanced Visualization, Streamlit Development*
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 
 ---
 
-### 🥗 Nutrition Paradox - Global Analysis
-**→ EDA ✦ Statistical Analysis ✦ Health Analytics ✦ Data Storytelling ✦ Matplotlib/Seaborn**
+## Featured Projects
 
-[![Nutrition Paradox](https://img.shields.io/badge/-View%20Project-32CD32?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/Project-2-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition)
+### 🌦️ ClimateLens — Indian Cities Weather Analytics *(In Progress)*
+Production-grade data engineering pipeline for weather analytics: modular Python ETL scripts, SQLAlchemy + TiDB Cloud/MySQL backend, Streamlit dashboard, pytest coverage, and CI via GitHub Actions.
+`Python` `SQLAlchemy` `TiDB Cloud` `Streamlit` `pytest`
 
-*Skills Gained: Complex EDA, Statistical Correlation Analysis, Health Data Interpretation, Advanced Visualization Techniques*
+### 🍃 Apple Leaf Disease Classifier
+Custom CNN built in PyTorch trained on the Plant Pathology 2021 dataset for multi-class leaf disease detection.
+`PyTorch` `CNN` `Computer Vision`
 
----
+### 🧠 NeuroScan — Brain Tumor Classification
+CNN with transfer learning achieving ~93% accuracy across 7,000+ MRI scans for tumor classification.
+`TensorFlow` `Transfer Learning` `Medical Imaging`
+[View Project →](https://github.com/VasanthPrakasam/Brain-Tumour-MRI_Image_Classification-Using_Tensorflow)
 
-### 🚖 TripFare Prediction System
-**→ Regression Models ✦ Feature Engineering ✦ Price Prediction ✦ Transport Analytics**
+### 🌫️ EcoPulse — PM2.5 Air Quality Nowcasting
+Regression-based air quality forecasting model achieving R² = 0.87, MAE 10.2 µg/m³.
+`Python` `Scikit-learn` `Time Series`
 
-[![TripFare Prediction](https://img.shields.io/badge/-View%20Project-FFD700?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/Tripfare_Prediction)
+### 🛍️ Shopper Spectrum
+Customer segmentation using RFM analysis paired with a cosine-similarity based product recommendation engine.
+`Unsupervised Learning` `Recommendation Systems`
+[View Project →](https://github.com/VasanthPrakasam/Shopper_Spectrum)
 
-*Skills Gained: Advanced Regression Techniques, Feature Selection, Transportation Analytics, Cost Modeling*
+### 🚖 FarePilot — Taxi Fare Prediction
+End-to-end regression pipeline for fare prediction, deployed via Streamlit.
+`Regression` `Feature Engineering` `Streamlit`
+[View Project →](https://github.com/VasanthPrakasam/Tripfare_Prediction)
 
----
+### 🌌 NASA NEO Tracking System
+Paginated NASA API extractor with SQLite backend and a Streamlit dashboard supporting 15+ analytical queries.
+`API Integration` `SQLite` `Streamlit`
+[View Project →](https://github.com/VasanthPrakasam/Nasa-NEO-Data-Tracking-Insights-Dashboard)
 
-### 🛍️ Shopper Spectrum Analytics
-**→ Customer Segmentation ✦  Recommendation System ✦ E-commerce Analytics ✦ ML-- Unsupervised Learning**
+### 🍽️ Zomato Food Delivery Data Insights
+Five-module OOP-based SQLite backend with a Streamlit/Plotly dashboard covering 20 analytics queries, using synthetic data generated via Faker.
+`OOP` `SQLite` `Plotly`
 
-[![Shopper Spectrum](https://img.shields.io/badge/-View%20Project-FF1493?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/Shopper_Spectrum)
-
-*Skills Gained: Customer Analytics, Market Segmentation, Behavioral Modeling, E-commerce Insights*
-
----
-
-### 💰 ML Salary Prediction - Linear Regression
-**→ Simple Linear Regression ✦ Career Analytics ✦ Salary Modeling ✦ Statistical Analysis**
-
-[![Salary Dataset](https://img.shields.io/badge/-View%20Project-4169E1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/ML--Salary-Dataset---Simple-linear-regression)
-
-*Skills Gained: Linear Regression Implementation, Career Data Analysis, Statistical Modeling, Predictive Analytics*
-
----
-
-### 📱 Advertisement Click Prediction
-**→ Logistic Regression ✦ Binary Classification ✦ Digital Marketing Analytics ✦ Feature Analysis**
-
-[![Ad Click Prediction](https://img.shields.io/badge/-View%20Project-FF4500?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/ML--Advertisement---Click-on-Ad-dataset--Logistic_Regression)
-
-*Skills Gained: Logistic Regression, Binary Classification, Marketing Analytics, Click-through Rate Modeling*
-
----
-
-### 🏏 Cricket Analytics Project
-**→ Sports Analytics ✦ Performance Metrics ✦ Player Analysis ✦ Statistical Modeling**
-
-[![Cricket Analytics](https://img.shields.io/badge/-View%20Project-00FF7F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/Cricket_Analytics_Project)
-
-*Skills Gained: Sports Data Analysis, Performance Metrics, Statistical Sports Modeling, Data-driven Insights*
+### 🥗 Nutrition Paradox — Global View
+Exploratory and statistical analysis of global obesity and malnutrition trends.
+`EDA` `Statistical Analysis`
+[View Project →](https://github.com/VasanthPrakasam/Project-2-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition)
 
 ---
-
-### ❤️ Heart Disease Prediction - Logistic Regression
-**→ Healthcare ML ✦ Medical Diagnosis ✦ Binary Classification ✦ Health Risk Assessment**
-
-[![Heart Disease Prediction](https://img.shields.io/badge/-View%20Project-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/ML--Logistic-Regression---Heart-Disease-Prediction)
-
-*Skills Gained: Healthcare Analytics, Medical Data Processing, Risk Assessment Modeling, Clinical Decision Support*
-
----
-
-### 🏥 Diabetes Prediction - Hyperparameter Tuning
-**→ Advanced ML ✦ Model Optimization ✦ Grid Search ✦ Cross Validation ✦ Performance Tuning**
-
-[![Diabetes Prediction](https://img.shields.io/badge/-View%20Project-9932CC?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VasanthPrakasam/ML--HyperParameter_tuning_using_Diabetes_Prediction)
-
-*Skills Gained: Hyperparameter Optimization, Cross-Validation, Model Performance Enhancement, Advanced ML Techniques*
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-![Trophies](https://github-profile-trophy.vercel.app/?username=VasanthPrakasam&theme=radical&no-frame=true&row=1&column=7)
-
-</div>
-
-## 💭 Algorithm Alchemy in Action
-
-```python
-class AlgorithmAlchemist:
-    def __init__(self):
-        self.name = "Vasanth P."
-        self.role = "ML Engineer @ GUVI HCL"
-        self.superpowers = ["SQL Samurai", "ML Storyteller", "Viz Virtuoso"]
-        self.expertise = [
-            "Linear & Logistic Regression",
-            "Hyperparameter Tuning", 
-            "Healthcare Analytics",
-            "Predictive Modeling",
-            "API Integration"
-        ]
-        self.background = "History → Data Science → ML Engineering"
-        self.motto = "Quiet Analyst. Fearless Modeler."
-    
-    def transform_data_to_insights(self, raw_data):
-        """🧪 Where data becomes predictive wisdom"""
-        model = self.train_ml_model(raw_data)
-        predictions = self.predict(model)
-        insights = self.visualize(predictions)
-        return f"🤖 {insights} powered by {self.expertise}"
-    
-    def current_mission(self):
-        return "Building ML models that predict the future 🔮📊"
-```
-
-## 🎯 ML Expertise Summary
-
-**Core Competencies:**
-- 🤖 **Machine Learning**: Linear/Logistic Regression, Classification, Hyperparameter Tuning
-- 📊 **Specialized Analytics**: Healthcare, Sports, Marketing, Real Estate, E-commerce
-- 🔍 **Advanced Techniques**: Feature Engineering, Model Optimization, Cross-Validation
-- 🎨 **Visualization**: Streamlit Dashboards, Interactive Charts, Statistical Plots
-- 🌐 **Integration**: API Development, Real-time Data Processing
 
 ## 💞️ Let's Collaborate!
 
-Looking for **ML engineering opportunities** and **advanced data science projects**!
+Looking for **data-driven projects** to collaborate on and grow together 🚀
 
 **What I bring:**
-- 🎯 **12+ ML Projects** spanning multiple industries
-- 🔍 **Analytical Foundation** from History → Data Science transition
-- 💻 **Production-ready** Python, SQL, and ML expertise
-- 🎨 **End-to-end** capability from data to deployed models
-- 🏥 **Domain Expertise** in Healthcare, Sports, and Business Analytics
+- 🎯 Strong foundation in **History research methodology + applied Data Science**
+- 🔍 Analytical mindset shaped by a **five-year UPSC preparation background**
+- 💻 Hands-on expertise in **Python, SQL, ML/DL, Power BI, Streamlit**
+- 🎨 Passion for **data storytelling & building end-to-end ML pipelines**
+
+### 📩 Reach Me
+📧 **Email:** [i.vasanth.prakasam@gmail.com](mailto:i.vasanth.prakasam@gmail.com)
+🌐 **GitHub:** [github.com/Vasanth-P-MUJ-2026](https://github.com/Vasanth-P-MUJ-2026)
+🔗 **LinkedIn:** [in/vasanth-prakasam-a490b0334](https://www.linkedin.com/in/vasanth-prakasam-a490b0334/)
+🌍 **Portfolio:** [vasanthbuilds.me](https://vasanthbuilds.me)
 
 ---
 
-## 📩 Reach Me
+⭐ *From algorithms to insights — every dataset tells a story!* ⭐
+🧪 **Algorithm Alchemist** • 📊 **Data Storyteller** • 🚀 **Future Data Scientist**
 
 <div align="center">
-  
-[![Email](https://img.shields.io/badge/-i.vasanth.prakasam@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:i.vasanth.prakasam@gmail.com)
-[![GitHub](https://img.shields.io/badge/-VasanthPrakasam-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/VasanthPrakasam)
-[![LinkedIn](https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vasanth-prakasam-a490b0334/)
 
-</div>
-
----
-
-<div align="center">  
-
-**皆様、ありがとうございました**
-**Thank you very much, everyone**
-
-![Japanese Cherry Blossom](https://images.unsplash.com/photo-1522383225653-ed111181a951?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=150&q=80)
-
-![Visitor Counter](https://visitor-badge.laobi.icu/badge?page_id=VasanthPrakasam.VasanthPrakasam&title=Viewer%20Count&left_color=black&right_color=brightgreen)
-
-⭐ **Thanks for visiting!** ⭐
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=VasanthPrakasam.VasanthPrakasam&title=Visitor%20Count&left_color=black&right_color=brightgreen)
 
 </div>
