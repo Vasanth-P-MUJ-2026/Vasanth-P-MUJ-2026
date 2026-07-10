@@ -65,7 +65,15 @@ I made a deliberate career shift into data science after five years preparing fo
 <table>
 <tr>
 
-<!-- 1 -->
+<!-- 1 : Capstone Project -->
+<td width="25%">
+<a href="https://github.com/Vasanth-P-MUJ-2026/EcoPulse-PM2.5-Nowcasting-for-Smarter-Cities">
+<b>🌆 EcoPulse — PM2.5 Nowcasting for Smarter Cities</b><br>
+<img src="https://opengraph.githubassets.com/1/Vasanth-P-MUJ-2026/EcoPulse-PM2.5-Nowcasting-for-Smarter-Cities" width="100%">
+</a>
+</td>
+
+<!-- 2 -->
 <td width="25%">
 <a href="https://github.com/Vasanth-P-MUJ-2026/Project_3-Shopper_Spectrum_Segementation_and_recommendation">
 <b>🛍️ Shopper Spectrum – Segmentation</b><br>
@@ -73,7 +81,7 @@ I made a deliberate career shift into data science after five years preparing fo
 </a>
 </td>
 
-<!-- 2 -->
+<!-- 3 -->
 <td width="25%">
 <a href="https://github.com/Vasanth-P-MUJ-2026/Project--TripFare-Predicting-Urban-Taxi-Fare-with-Machine-Learning">
 <b>🚖 FarePilot – Fare Prediction</b><br>
@@ -81,7 +89,7 @@ I made a deliberate career shift into data science after five years preparing fo
 </a>
 </td>
 
-<!-- 3 -->
+<!-- 4 -->
 <td width="25%">
 <a href="https://github.com/VasanthPrakasam/Project-2-Nutrition-Paradox-A-Global-View-on-Obesity-and-Malnutrition">
 <b>🥗 Nutrition Paradox – Global View</b><br>
@@ -89,7 +97,7 @@ I made a deliberate career shift into data science after five years preparing fo
 </a>
 </td>
 
-<!-- 4 -->
+<!-- 5 -->
 <td width="25%">
 <a href="https://github.com/VasanthPrakasam/Nasa-NEO-Data-Tracking-Insights-Dashboard">
 <b>🌌 NASA NEO Tracking Dashboard</b><br>
@@ -100,13 +108,15 @@ I made a deliberate career shift into data science after five years preparing fo
 </tr>
 <tr>
 
-<!-- 5 -->
-<td width="25%" align="center">
-<b>🍽️ Zomato Food Delivery Insights</b><br>
-<img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
+<!-- 6 -->
+<td width="25%">
+<a href="https://github.com/Vasanth-P-MUJ-2026/ML--HyperParameter_tuning_using_Diabetes_Prediction">
+<b>🩺 Hyperparameter Tuning — Diabetes Prediction (ML)</b><br>
+<img src="https://opengraph.githubassets.com/1/Vasanth-P-MUJ-2026/ML--HyperParameter_tuning_using_Diabetes_Prediction" width="100%">
+</a>
 </td>
 
-<!-- 6 -->
+<!-- 7 -->
 <td width="25%" align="center">
 <b>⏳ More ML Projects Coming Soon</b><br>
 <img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
@@ -121,8 +131,32 @@ I made a deliberate career shift into data science after five years preparing fo
 
 <table>
 <tr>
-  
+
 <!-- 1 -->
+<td width="25%">
+<a href="https://github.com/Vasanth-P-MUJ-2026/DL-P5---Building_a_Brain_Tumor_Detector_using_MRI_Images">
+<b>🧠 Brain Tumor Detector (MRI Images)</b><br>
+<img src="https://opengraph.githubassets.com/1/Vasanth-P-MUJ-2026/DL-P5---Building_a_Brain_Tumor_Detector_using_MRI_Images" width="100%">
+</a>
+</td>
+  
+<!-- 2 -->
+<td width="25%">
+<a href="https://github.com/Vasanth-P-MUJ-2026/Tensorflow-Custom-Neural-Network-MNIST--Case_Study">
+<b>🔢 Custom Neural Network - MNIST (TensorFlow)</b><br>
+<img src="https://opengraph.githubassets.com/1/Vasanth-P-MUJ-2026/Tensorflow-Custom-Neural-Network-MNIST--Case_Study" width="100%">
+</a>
+</td>
+
+<!-- 3 -->
+<td width="25%">
+<a href="https://github.com/Vasanth-P-MUJ-2026/deep-learning-mpg-estimator">
+<b>⛽ Deep Learning MPG Estimator</b><br>
+<img src="https://opengraph.githubassets.com/1/Vasanth-P-MUJ-2026/deep-learning-mpg-estimator" width="100%">
+</a>
+</td>
+
+<!-- 3 -->
 <td width="25%" align="center">
 <b>⏳ More Projects Coming Soon</b><br>
 <img src="https://via.placeholder.com/600x300?text=Coming+Soon" width="100%">
