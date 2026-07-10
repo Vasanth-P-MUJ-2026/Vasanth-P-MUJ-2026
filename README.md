@@ -73,6 +73,8 @@ I made a deliberate career shift into data science after five years preparing fo
 </a>
 </td>
 
+
+
 <!-- 2 -->
 <td width="25%">
 <a href="https://github.com/Vasanth-P-MUJ-2026/Project_3-Shopper_Spectrum_Segementation_and_recommendation">
